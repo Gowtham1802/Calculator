@@ -1,4 +1,4 @@
-'use script';
+'use scrit';
 
 // input
 const inputElement = document.querySelectorAll('.input');
